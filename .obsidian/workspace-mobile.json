@@ -1,33 +1,66 @@
 {
   "main": {
-    "id": "76a18584edcaaf6c",
+    "id": "cccad8016c312d0c",
     "type": "split",
     "children": [
       {
-        "id": "277baa0c5816d571",
+        "id": "a66a7b9301609be6",
         "type": "tabs",
         "children": [
           {
-            "id": "d7059af22df87312",
+            "id": "fccfd6e43b11f0c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
+            }
+          },
+          {
+            "id": "02d794d03a5a8264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "a2051247b8773901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8a8346987399fcec",
+    "id": "9288fed147243b7b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "640c27f4574a669a",
+        "id": "35461c450ced5240",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +72,7 @@
         }
       },
       {
-        "id": "6ae5e64f1e5ff0e2",
+        "id": "fa554393a312fdcf",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -56,7 +89,7 @@
         }
       },
       {
-        "id": "ff01d170f83138ce",
+        "id": "825ea1825732377d",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -69,7 +102,7 @@
         }
       },
       {
-        "id": "8512b1481a36ff7b",
+        "id": "0d9769694eb5a52e",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -82,11 +115,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3f6a8d4de915cb79",
+    "id": "14ca6c51ea359ad3",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9fa1266b9e30d685",
+        "id": "3e5072679e4f609a",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -104,7 +137,7 @@
         }
       },
       {
-        "id": "568c0d29bf30490b",
+        "id": "867bcf3f4e66a0c0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -117,7 +150,7 @@
         }
       },
       {
-        "id": "6a5b0f3599631354",
+        "id": "cd3cc7032336357a",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -127,7 +160,7 @@
         }
       },
       {
-        "id": "e3d706cd49e386a4",
+        "id": "8d1872795d677a7d",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -150,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7059af22df87312",
+  "active": "a2051247b8773901",
   "lastOpenFiles": [
+    "Untitled 3.md",
+    "Untitled 2.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 1/Untitled.md",
