@@ -6,7 +6,7 @@
 .obsidian/workspace.json
 
 # Ignorar archivos binarios de plugins (pero rastrear la lista)
-!.obsidian/plugins/*
+.obsidian/plugins/*
 !.obsidian/community-plugins.json  # Lista de plugins instalados
 
 # Ignorar archivos CSS/JS de temas (pero rastrear el tema activo)
