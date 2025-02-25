@@ -4,9 +4,10 @@
 
 # Ignorar ajustes de ventana (específicos por dispositivo)
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
 # Ignorar archivos binarios de plugins (pero rastrear la lista)
-!.obsidian/plugins/*
+.obsidian/plugins/*
 !.obsidian/community-plugins.json  # Lista de plugins instalados
 
 # Ignorar archivos CSS/JS de temas (pero rastrear el tema activo)
@@ -16,7 +17,6 @@
 # Ignorar otros archivos temporales o locales
 .obsidian/hotkeys.json            # Opcional: Ignora si no quieres sincronizar atajos
 .obsidian/.trash/                 # Papelera de Obsidian
-.obsidian/workspace-mobile.json   # Ajustes específicos de móvil (si aplica)
 
 # ----------------------------------------
 # Archivos generales a ignorar
